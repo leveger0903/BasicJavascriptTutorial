@@ -25,7 +25,7 @@ EMCA SCRIPT 5,
 
 ## 備份網址
 
-  * [ES5](https://gitbook.fu-ming.tw/es5/_book/index.html)
+  * [ES5](https://gitbook.fu-ming.tw/es5/index.html)
 
 ## 更新 
 
