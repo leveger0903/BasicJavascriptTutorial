@@ -1,8 +1,5 @@
 # ES5 正規化
 
-> 參考網址: 
-http://www.w3schools.com/jsref/jsref_obj_regexp.asp
-
 ## 正規化取代
 
 ````

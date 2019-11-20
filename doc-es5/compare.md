@@ -1,8 +1,5 @@
 # ES5 判斷式
 
-> 參考網址: 
-http://www.w3schools.com/js/js_comparisons.asp
-
 - if ... else ...
 
 ````

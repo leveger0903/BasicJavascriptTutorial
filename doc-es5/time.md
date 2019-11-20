@@ -1,8 +1,5 @@
 # ES5 時間方法
 
-> 參考網址: 
-http://www.w3schools.com/jsref/obj_window.asp
-
 ## setTimeout
 __設定倒數計時器__
 

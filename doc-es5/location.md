@@ -1,8 +1,5 @@
 #ES5 URI 方法
 
-> 參考網址: 
-https://www.w3schools.com/jsref/obj_location.asp
-
 ## protocol
 __當前 URI 通訊協定__
 

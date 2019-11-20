@@ -1,8 +1,5 @@
 # ES5 字串方法
 
-> 參考網址: 
-https://www.w3schools.com/jsref/jsref_obj_string.asp
-
 ## length
 __返回字串長度__
 

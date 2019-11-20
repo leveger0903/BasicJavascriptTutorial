@@ -1,8 +1,5 @@
 # ES5 全域方法
 
-> 參考網址: 
-http://www.w3schools.com/jsref/jsref_obj_global.asp
-
 ## encodeURI
 __編碼特殊字元為UTF-8編碼(不包含+#$,:;=?)__
 

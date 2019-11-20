@@ -1,8 +1,5 @@
 # ES5 判斷子
 
-> 參考網址: 
-http://www.w3schools.com/js/js_comparisons.asp
-
 ## 判斷子
 
 - ==

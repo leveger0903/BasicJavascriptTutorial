@@ -1,8 +1,5 @@
 # ES5 物件/陣列/迴圈
 
-> 參考網址: 
-http://www.w3schools.com/js/js_arrays.asp
-
 ## 宣告陣列的方法
 
 ````

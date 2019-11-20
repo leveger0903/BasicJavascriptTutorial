@@ -1,8 +1,5 @@
 # ES5 陣列方法
 
-> 參考網址: 
-https://www.w3schools.com/jsref/jsref_obj_array.asp
-
 ## join
 __將陣列以特定字元連接(類似 php 的 implode)__
 

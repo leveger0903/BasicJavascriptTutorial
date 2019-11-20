@@ -1,8 +1,5 @@
 # ES5 瀏覽器方法
 
-> 參考網址: 
-https://www.w3schools.com/jsref/obj_navigator.asp
-
 ## cookieEnabled
 __是否允許使用cookie__
 

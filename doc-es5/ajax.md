@@ -1,8 +1,5 @@
 # ES5 AJAX
 
-> 參考網址: 
-http://www.w3schools.com/ajax/default.asp
-
 ## 步驟說明
 - 先宣告 ajax 物件
 

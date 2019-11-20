@@ -1,8 +1,5 @@
 # ES5 日期方法
 
-> 參考網址: 
-https://www.w3schools.com/jsref/jsref_obj_date.asp
-
 ## getFullYear
 __取得年份__
 

@@ -1,8 +1,5 @@
 # ES5 Window方法
 
-> 參考網址: 
-http://www.w3schools.com/jsref/obj_window.asp
-
 ## alert
 __通知視窗__
 

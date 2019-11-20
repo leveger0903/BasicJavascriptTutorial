@@ -1,8 +1,5 @@
 # ES5 數學方法
 
-> 參考網址: 
-https://www.w3schools.com/jsref/jsref_obj_math.asp
-
 ## abs
 __返回絕對值__
 
